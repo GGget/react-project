@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 // import Button from 'antd/lib/button';
-import MainPage from '@/pages/MainPage'
+import MainPage from '@/pages/main/MainPage'
 class App extends Component {
   render() {
     return (
